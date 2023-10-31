@@ -5,8 +5,8 @@
         <template id="custom_sale_report" inherit_id="sale.report_saleorder_document">
             
            <xpath expr="//div[@class='page']" position="inside">
-                <div style="position: absolute; text-align:center; border:0;">
-                    <img src="/sami_custom_report/static/src/img/filigrane.png" style="opacity: 0.2; width: 600px; height: 600px;" />
+                <div style="position: absolute; text-align:center; border:0; padding-left:150px;">
+                    <img src="/sami_custom_report/static/src/img/filigrane.png" style="opacity: 0.2; width: 400px; height: 400px;" />
                 </div>
             </xpath>
             <!-- padding-top:50px;padding-left:145px; -->
