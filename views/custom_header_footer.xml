@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <odoo>
     <data>
-        <template id="ods_external_header_footer">
+        <template id="sami_external_header_footer">
             
 <!--             header -->
             <div class="header">
             <div class="col-12 mb4 align-middle " style="">
-                <img src='/ods_custom_report/static/src/img/header.png' align="center" width="850" height="140"/>
+                <img src='/sami_custom_report/static/src/img/header.png' align="center" width="850" height="140"/>
             </div>
                
             </div>
@@ -20,7 +20,7 @@
 <!--             footer -->
           <div class="footer">
             <div class="row">
-                <img src='/ods_custom_report/static/src/img/footer.png'  width="850" height="80"/>
+                <img src='/sami_custom_report/static/src/img/footer.png'  width="850" height="80"/>
             </div>
           </div>
 <!--             end footer -->

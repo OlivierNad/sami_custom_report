@@ -17,7 +17,7 @@
                 </t>
             </t>
 
-            <t t-call="ods_custom_report.ods_external_header_footer">
+            <t t-call="sami_custom_report.sami_external_header_footer">
                 <t t-raw="0"/>
             </t>
         </template>

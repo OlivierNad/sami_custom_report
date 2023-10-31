@@ -32,7 +32,7 @@
                         </div>
                     </div>
                     <div style="text-align: left;">
-                        <img src='/ods_custom_report/static/src/img/codeqr.png' style="max-height:150px; max-width:155px;"/>
+                        <img src='/sami_custom_report/static/src/img/codeqr.png' style="max-height:150px; max-width:155px;"/>
                     </div>
                     
                     <div class="row mt-4 mb-4" id="informations">
@@ -132,7 +132,7 @@
                     </div>
 
                     <div style="text-align: right; margin-right:100px;" class="offset-8">
-                        <img src='/ods_custom_report/static/src/img/cachet.png' style="max-height:150px; max-width:155px;"/>
+                        <img src='/sami_custom_report/static/src/img/cachet.png' style="max-height:150px; max-width:155px;"/>
                     </div>
 
                     <div>

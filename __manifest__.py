@@ -1,19 +1,19 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "ods_custom_report",
+    'name': "sami_custom_report",
 
     'summary': """
-        ods_report module for custom report""",
+        sami_custom_report module for custom report""",
 
     'description': """
-        ods_report module for custom report
+        sami_custom_report module for custom report
     """,
 
-    'author': "GandG Professional Services",
-    'website': "http://www.gandgcorp.com",
+    'author': "Sami software",
+    'website': "http://www.samisoftware.com",
 
     # Categories can be used to filter modules in modules listing
-    # Check https://github.com/odoo/odoo/blob/14.0/odoo/addons/base/data/ir_module_category_data.xml
+    # Check https://github.com/odoo/odoo/blob/16.0/odoo/addons/base/data/ir_module_category_data.xml
     # for the full list
     'category': 'Uncategorized',
     'version': '0.1',
