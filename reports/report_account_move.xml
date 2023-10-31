@@ -5,7 +5,7 @@
     
         <template id="custom_account_report" inherit_id="account.report_invoice_document">
             <xpath expr="//div[@class='page']" position="inside">
-                <div style="text-align:center; border:0;">
+                <div style="position: absolute;text-align:center; border:0;">
                     <img src="/sami_custom_report/static/src/img/filigrane.png" style="opacity: 0.2; width: 600px; height: 600px;" />
                 </div>
             </xpath>
