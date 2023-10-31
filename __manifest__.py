@@ -26,8 +26,8 @@
         # 'security/ir.model.access.csv',
         'views/custom_header_footer.xml',
         'views/external_layout.xml',
-        'reports/report_sale_order.xml',
-        'reports/report_account_move.xml',
+        #'reports/report_sale_order.xml',
+        #'reports/report_account_move.xml',
         #'reports/menu_report.xml',
     ],
     # only loaded in demonstration mode
